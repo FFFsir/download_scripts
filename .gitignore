@@ -1,0 +1,34 @@
+# Python 生成文件
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+wheels/
+*.egg-info/
+.eggs/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+ENV/
+
+# 测试 / 缓存
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# NiceGUI 运行时
+.nicegui/
+
+# 下载输出（大体积数据）
+output/
+
+# IDE / 系统文件
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
